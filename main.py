@@ -1,1 +1,0 @@
-print("Ashutosh is great");
